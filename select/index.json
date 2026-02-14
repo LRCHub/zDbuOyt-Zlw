@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "模倣犯",
+  "base_artist": "缶缶",
+  "createdAt": "2026-02-14T13:14:04.604008Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "模倣犯",
+      "artist": "缶缶, REISAI",
+      "has_synced": false,
+      "path": "select/pl_01_模倣犯_缶缶,_REISAI.txt"
+    }
+  ]
+}
